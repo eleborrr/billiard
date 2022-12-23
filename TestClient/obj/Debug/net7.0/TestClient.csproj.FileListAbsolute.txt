@@ -1,0 +1,33 @@
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\bin\Debug\net7.0\TestClient.exe
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\bin\Debug\net7.0\TestClient.deps.json
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\bin\Debug\net7.0\TestClient.runtimeconfig.json
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\bin\Debug\net7.0\TestClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\bin\Debug\net7.0\TestClient.pdb
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.csproj.AssemblyReference.cache
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.AssemblyInfoInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.AssemblyInfo.cs
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.csproj.CoreCompileInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\refint\TestClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.pdb
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\TestClient.genruntimeconfig.cache
+C:\Git Projects\PaintOnline\PaintOnline\TestClient\obj\Debug\net7.0\ref\TestClient.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\TestClient.exe
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\TestClient.deps.json
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\TestClient.runtimeconfig.json
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\TestClient.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\TestClient.pdb
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.csproj.AssemblyReference.cache
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.AssemblyInfoInputs.cache
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.AssemblyInfo.cs
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\refint\TestClient.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.pdb
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.genruntimeconfig.cache
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\ref\TestClient.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\TestClient\bin\Debug\net7.0\PaintLibrary.pdb
+C:\Users\this_\Repos\OnlinePaint\TestClient\obj\Debug\net7.0\TestClient.csproj.CopyComplete

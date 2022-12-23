@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AabaEmDE1H5/qwPJrFz3Y7Wkdrzi2tjl2A7N4tKkr2pDkCDFvY9+CnVVhxyi/p/lOzgvPpwO5CsZ1gvWmzE2yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\this_\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\this_\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

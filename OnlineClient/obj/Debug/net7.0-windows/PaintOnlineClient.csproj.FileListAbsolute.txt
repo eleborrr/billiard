@@ -1,0 +1,43 @@
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.exe
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.deps.json
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.runtimeconfig.json
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.AssemblyReference.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.Form1.resources
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.GenerateResource.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.AssemblyInfoInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.AssemblyInfo.cs
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.CoreCompileInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\refint\PaintOnlineClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.genruntimeconfig.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\ref\PaintOnlineClient.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintLibrary.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintLibrary.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.CopyComplete
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.exe
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.deps.json
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.runtimeconfig.json
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintOnlineClient.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\PaintLibrary.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.AssemblyReference.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.Form1.resources
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.GenerateResource.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.AssemblyInfoInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.AssemblyInfo.cs
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.CoreCompileInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.csproj.CopyComplete
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\refint\PaintOnlineClient.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\PaintOnlineClient.genruntimeconfig.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\ref\PaintOnlineClient.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineClinet\obj\Debug\net7.0-windows\Billiards.MainWindow.resources

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestClient/1.0.0": {
+        "dependencies": {
+          "PaintLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TestClient.dll": {}
+        }
+      },
+      "PaintLibrary/1.0.0": {
+        "runtime": {
+          "PaintLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaintLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.exe
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.deps.json
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.runtimeconfig.json
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.AssemblyReference.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.AssemblyInfoInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.AssemblyInfo.cs
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.CoreCompileInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\refint\PaintOnlineServer.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.genruntimeconfig.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\ref\PaintOnlineServer.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintLibrary.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\bin\Debug\net7.0\PaintLibrary.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.CopyComplete
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.exe
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.deps.json
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.runtimeconfig.json
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintOnlineServer.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\bin\Debug\net7.0\PaintLibrary.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.AssemblyReference.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.AssemblyInfoInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.AssemblyInfo.cs
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.CoreCompileInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.csproj.CopyComplete
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\refint\PaintOnlineServer.dll
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\PaintOnlineServer.genruntimeconfig.cache
+C:\Users\this_\Repos\OnlinePaint\PaintOnlineServer\obj\Debug\net7.0\ref\PaintOnlineServer.dll

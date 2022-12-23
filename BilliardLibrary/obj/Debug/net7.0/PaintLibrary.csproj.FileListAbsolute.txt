@@ -1,0 +1,24 @@
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\bin\Debug\net7.0\PaintLibrary.deps.json
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\bin\Debug\net7.0\PaintLibrary.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\bin\Debug\net7.0\PaintLibrary.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.csproj.AssemblyReference.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.AssemblyInfoInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.AssemblyInfo.cs
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.csproj.CoreCompileInputs.cache
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\refint\PaintLibrary.dll
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\PaintLibrary.pdb
+C:\Git Projects\PaintOnline\PaintOnline\PaintLibrary\obj\Debug\net7.0\ref\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\bin\Debug\net7.0\PaintLibrary.deps.json
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\bin\Debug\net7.0\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\bin\Debug\net7.0\PaintLibrary.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.csproj.AssemblyReference.cache
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.AssemblyInfoInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.AssemblyInfo.cs
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.csproj.CoreCompileInputs.cache
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\refint\PaintLibrary.dll
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\PaintLibrary.pdb
+C:\Users\this_\Repos\OnlinePaint\PaintLibrary\obj\Debug\net7.0\ref\PaintLibrary.dll

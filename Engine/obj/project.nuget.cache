@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "adndpr9KH5d1RBAnk5oCivMSrkx8HrWMuRv1mYmhSnQOJ9k+Dy4waRIktwRGr3QPc2siAD3Vv+P1aNf5XFgICg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\this_\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\this_\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
