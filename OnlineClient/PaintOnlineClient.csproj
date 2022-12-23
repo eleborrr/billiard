@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Engine\Engine.csproj" />
-    <ProjectReference Include="..\PaintLibrary\PaintLibrary.csproj" />
+    <ProjectReference Include="..\BilliardLibrary\BilliardLibrary.csproj" />
   </ItemGroup>
 
 </Project>

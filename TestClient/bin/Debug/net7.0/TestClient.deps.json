@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "TestClient/1.0.0": {
         "dependencies": {
-          "PaintLibrary": "1.0.0"
+          "BilliardLibrary": "1.0.0"
         },
         "runtime": {
           "TestClient.dll": {}
         }
       },
-      "PaintLibrary/1.0.0": {
+      "BilliardLibrary/1.0.0": {
         "runtime": {
-          "PaintLibrary.dll": {}
+          "BilliardLibrary.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "PaintLibrary/1.0.0": {
+    "BilliardLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

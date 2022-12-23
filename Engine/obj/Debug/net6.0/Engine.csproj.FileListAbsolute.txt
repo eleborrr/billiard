@@ -10,3 +10,15 @@ C:\Users\this_\Repos\OnlinePaint\Engine\obj\Debug\net6.0\Engine.dll
 C:\Users\this_\Repos\OnlinePaint\Engine\obj\Debug\net6.0\refint\Engine.dll
 C:\Users\this_\Repos\OnlinePaint\Engine\obj\Debug\net6.0\Engine.pdb
 C:\Users\this_\Repos\OnlinePaint\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\this_\source\repos\бильярд2 — копия — копия\Engine\obj\Debug\net6.0\ref\Engine.dll

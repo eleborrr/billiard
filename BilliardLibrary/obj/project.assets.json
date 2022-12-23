@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj",
-      "projectName": "PaintLibrary",
-      "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj",
+      "projectName": "BilliardLibrary",
+      "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj",
       "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\obj\\",
+      "outputPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,12 @@
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\bin\Debug\net7.0\BilliardLibrary.deps.json
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\bin\Debug\net7.0\BilliardLibrary.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\bin\Debug\net7.0\BilliardLibrary.pdb
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.csproj.AssemblyReference.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.AssemblyInfoInputs.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.AssemblyInfo.cs
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\refint\BilliardLibrary.dll
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\BilliardLibrary.pdb
+C:\Users\this_\source\repos\бильярд2 — копия — копия\BilliardLibrary\obj\Debug\net7.0\ref\BilliardLibrary.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "adndpr9KH5d1RBAnk5oCivMSrkx8HrWMuRv1mYmhSnQOJ9k+Dy4waRIktwRGr3QPc2siAD3Vv+P1aNf5XFgICg==",
+  "dgSpecHash": "nurnFzYA0wOfiFTnGRW8WpnDp7B+Wif9AjNUp3iV1uuk3rZ9XFOvk+7UG3hrndMRw8OPxGccBRDyGEKPzYmqbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj",
+  "projectFilePath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\this_\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\this_\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
