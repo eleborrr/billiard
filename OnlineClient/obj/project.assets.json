@@ -49,6 +49,16 @@
           }
         }
       },
+      "BilliardLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BilliardLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BilliardLibrary.dll": {}
+        }
+      },
       "Engine/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -60,16 +70,6 @@
         },
         "runtime": {
           "bin/placeholder/Engine.dll": {}
-        }
-      },
-      "PaintLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/PaintLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PaintLibrary.dll": {}
         }
       }
     }
@@ -143,21 +143,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "BilliardLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BilliardLibrary/BilliardLibrary.csproj",
+      "msbuildProject": "../BilliardLibrary/BilliardLibrary.csproj"
+    },
     "Engine/1.0.0": {
       "type": "project",
       "path": "../Engine/Engine.csproj",
       "msbuildProject": "../Engine/Engine.csproj"
-    },
-    "PaintLibrary/1.0.0": {
-      "type": "project",
-      "path": "../PaintLibrary/PaintLibrary.csproj",
-      "msbuildProject": "../PaintLibrary/PaintLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "Engine >= 1.0.0",
-      "PaintLibrary >= 1.0.0"
+      "BilliardLibrary >= 1.0.0",
+      "Engine >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -167,11 +167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj",
-      "projectName": "PaintOnlineClient",
-      "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj",
+      "projectUniqueName": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\OnlineClient\\OnlineClient.csproj",
+      "projectName": "OnlineClient",
+      "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\OnlineClient\\OnlineClient.csproj",
       "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\obj\\",
+      "outputPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\OnlineClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,11 +194,11 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj": {
-              "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj"
+            "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj": {
+              "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj"
             },
-            "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj": {
-              "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj"
+            "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj": {
+              "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj"
             }
           }
         }

@@ -1,17 +1,78 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj": {}
+    "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\PaintOnlineClinet\\PaintOnlineClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj": {
+    "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj",
-        "projectName": "Engine",
-        "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj",
+        "projectName": "BilliardLibrary",
+        "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj",
         "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\this_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj",
+        "projectName": "Engine",
+        "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj",
+        "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,75 +132,14 @@
         }
       }
     },
-    "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj": {
+    "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\PaintOnlineClinet\\PaintOnlineClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj",
-        "projectName": "PaintLibrary",
-        "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj",
-        "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\this_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj",
+        "projectUniqueName": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\PaintOnlineClinet\\PaintOnlineClient.csproj",
         "projectName": "PaintOnlineClient",
-        "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\PaintOnlineClient.csproj",
+        "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\PaintOnlineClinet\\PaintOnlineClient.csproj",
         "packagesPath": "C:\\Users\\this_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintOnlineClinet\\obj\\",
+        "outputPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\PaintOnlineClinet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,11 +162,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj": {
-                "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\Engine\\Engine.csproj"
+              "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj": {
+                "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\BilliardLibrary\\BilliardLibrary.csproj"
               },
-              "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj": {
-                "projectPath": "C:\\Users\\this_\\Repos\\OnlinePaint\\PaintLibrary\\PaintLibrary.csproj"
+              "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj": {
+                "projectPath": "C:\\Users\\this_\\source\\repos\\бильярд2 — копия — копия\\Engine\\Engine.csproj"
               }
             }
           }
