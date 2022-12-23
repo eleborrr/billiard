@@ -1,4 +1,6 @@
-
+using System.Net.Sockets;
+using System.Text.Json;
+using PaintLibrary;
 
 using Billiards;
 
@@ -17,6 +19,9 @@ namespace PaintOnlineClient
             ApplicationConfiguration.Initialize();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainWindow());
+            
+
         }
+        
     }
 }

@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>PaintOnlineServer</RootNamespace>
@@ -10,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BilliardLibrary\BilliardLibrary.csproj" />
+    <ProjectReference Include="..\Engine\Engine.csproj" />
   </ItemGroup>
 
 </Project>

@@ -45,8 +45,8 @@ namespace PaintOnlineServer
 
                 string? message = $"{userName} вошел в игру";
                 // посылаем сообщение о входе в чат всем подключенным пользователям
-                var json = JsonSerializer.Serialize(new User { UserName = userName, Color = color.ToArgb() });
-                await server.BroadcastMessageAsync("user_connect" + json, Id);
+                // var json = JsonSerializer.Serialize(new User { UserName = userName, Color = color.ToArgb() });
+                await server.BroadcastMessageAsync("user_connect" , Id);
                 Console.WriteLine(message);
 
                 // в бесконечном цикле получаем сообщения от клиента
@@ -56,10 +56,10 @@ namespace PaintOnlineServer
                     {
                         message = await Reader.ReadLineAsync();
                         if (message == null) continue;
-                            var point = JsonSerializer.Deserialize<SendPoint>(message);
-                            point.Color = color.ToArgb();
+                            // var point = JsonSerializer.Deserialize<SendPoint>(message);
+                            // point.Color = color.ToArgb();
                             //Console.WriteLine(point);
-                            await server.BroadcastMessageAsync("user_action" + JsonSerializer.Serialize(point), Id);
+                            await server.BroadcastMessageAsync("user_action", Id);
                     }
                     catch
                     {
